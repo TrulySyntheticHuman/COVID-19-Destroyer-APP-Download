@@ -7,3 +7,5 @@
 # Go to this link: 
 https://www.dropbox.com/s/ptfxv5c1ojkq11o/COVID-19%20Destroyer.apk?dl=0
 # Download the apk file and run it!
+# Test the Google Play version!
+https://play.google.com/apps/testing/com.synthetichuman.covid19destroyer
